@@ -1,0 +1,71 @@
+body {
+    background-image: url(fotos/gumball.jpg);
+    width: 800px;
+    max-width: 95%;
+    margin: 0 auto;
+    font-family:monospace;
+}
+
+h1{
+    background-color: chocolate;
+}
+
+nav li {
+    display: inline-block;
+    text-decoration: none;
+   
+    background-color: chocolate;
+    padding: 10px;
+    border-radius: 5px;
+    }
+
+
+
+#prueba {
+    background-color: brown;
+    border-radius: 20px;
+}
+
+#imagenfondo {
+    border-width: 3px;
+        border-color: rgb(245, 208, 152);
+    border-style: solid;
+}
+
+#mi{
+    border-width: 3px;
+        border-color: lightseagreen;
+    border-style: solid;
+}
+
+#yot{
+    background-color: lightseagreen;
+}
+#yo{
+    background-color: lightseagreen;
+}
+#sobremi{
+
+    width: 500px;
+    max-width: 95%;
+   
+
+     
+   
+}
+
+body, ul{
+    padding: 0;
+    
+}
+
+#fin{
+    background-image: url(fotos/marte.jpg);
+    width: 400px;
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+#textfin{
+    background-color: chocolate;
+}
